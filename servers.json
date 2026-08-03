@@ -1,15 +1,16 @@
 [
     {
-        "online": "736",
-        "maxonline": "1000",
+        "online": "89",
+        "maxonline": "1300",
         "color": "FF0000",
         "x2": "true",
         "key": "1424",
-        "name": "ALMATY",
-        "firstname": "ALMATY",
+        "name": "Almaty",
+        "firstname": "Almaty",
         "secondname": "",
-        "url": "Almaty.blackrussia.online",
-        "ip": "54.38.117.78",
-        "port": "1193"
+        "url": "Moscow.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "4345"
+
     }
 ]
