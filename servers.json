@@ -1,14 +1,30 @@
 [
     {
-        "online": "89",
+        "online": "492",
         "maxonline": "1300",
         "color": "FF0000",
         "x2": "true",
         "key": "1424",
-        "name": "Almaty",
-        "firstname": "Almaty",
+        "name": "RED",
+        "firstname": "RED",
         "secondname": "",
-        "url": "Moscow.blackrussia.online",
+        "url": "Red.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "2977"
+
+    }
+]
+[
+    {
+        "online": "670",
+        "maxonline": "1300",
+        "color": "0000FF",
+        "x2": "true",
+        "key": "1424",
+        "name": "BLUE",
+        "firstname": "BLUE",
+        "secondname": "",
+        "url": "Blue.blackrussia.online",
         "ip": "188.127.241.74",
         "port": "2977"
 
